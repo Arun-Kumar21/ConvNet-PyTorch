@@ -1,0 +1,8 @@
+torch
+torchvision
+tk
+pillow
+numpy
+flask
+requests
+tqdm

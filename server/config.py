@@ -1,0 +1,10 @@
+class Config:
+    RANDOM_SEED = 42
+    BATCH_SIZE = 32
+    NUM_EPOCHS = 3
+    LEARNING_RATE = 0.01
+    HIDDEN_UNITS = 32
+    INPUT_CHANNELS = 1
+    NUM_CLASSES = 10
+    TRAIN_VAL_SPLIT = 0.8
+    DATA_DIR = './data'
