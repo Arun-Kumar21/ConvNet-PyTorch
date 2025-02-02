@@ -1,3 +1,5 @@
 /venv
 /.idea
 /server/data
+/server/__pycache__
+/server/scripts/__pycache__
